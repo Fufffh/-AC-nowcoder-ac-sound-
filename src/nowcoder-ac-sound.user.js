@@ -7,6 +7,8 @@
 // @author       Fufffh
 // @grant        none
 // @icon         https://youke.xn--y7xa690gmna.cn/s1/2026/02/06/698566dd55eea.webp
+// @downloadURL  https://raw.githubusercontent.com/Fufffh/-AC-nowcoder-ac-sound-/main/src/nowcoder-ac-sound.user.js
+// @updateURL    https://raw.githubusercontent.com/Fufffh/-AC-nowcoder-ac-sound-/main/src/nowcoder-ac-sound.user.js
 // ==/UserScript==
 
  /*
