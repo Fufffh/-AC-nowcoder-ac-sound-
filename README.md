@@ -104,7 +104,7 @@ const MY_SOUND_B64 = '...'
 ```python
 import base64, pathlib
 
-p = pathlib.Path(r"C:\Users\19711\Music\Jeff Broadbent - 胜利_L.ogg")  # ← 改成你的文件
+p = pathlib.Path(r"")  # ← 改成你的文件
 data = base64.b64encode(p.read_bytes()).decode("ascii")
 print(data)
 ```
